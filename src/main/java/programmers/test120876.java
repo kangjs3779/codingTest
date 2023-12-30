@@ -77,7 +77,10 @@ public class test120876 {
             answer = Collections.max(chk) - Collections.min(chk);
         }
         System.out.println(chk.toString());
+        System.out.println(Collections.min(chk));
 
+        int v = 30;
+        int z = -10;
         System.out.println(answer);
 //        System.out.println(chk.toString());
 //        System.out.println(Collections.max(chk));
