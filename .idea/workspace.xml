@@ -12,6 +12,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -22,6 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/opt/homebrew/Cellar/php/8.2.10/bin/php" />
   <component name="ProjectId" id="2TIMX2uibOFwuxIPlYZCezZ4AQd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -56,7 +60,8 @@
       <workItem from="1690763796506" duration="3036000" />
       <workItem from="1692720132682" duration="398000" />
       <workItem from="1693318324031" duration="1840000" />
-      <workItem from="1693555960642" duration="2012000" />
+      <workItem from="1693555960642" duration="2703000" />
+      <workItem from="1703852551866" duration="8284000" />
     </task>
     <servers />
   </component>

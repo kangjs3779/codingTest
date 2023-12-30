@@ -17,5 +17,6 @@ public class test181927 {
         result[num_list.length] = num_list[num_list.length-1] > num_list[num_list.length-2] ? num_list[num_list.length-1] - num_list[num_list.length-2] : num_list[num_list.length-1] * 2;
 
 
+
     }
 }
