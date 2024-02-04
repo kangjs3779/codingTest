@@ -8,21 +8,23 @@ public class test138477 {
         int[] score = {10, 100, 20, 150, 1, 100, 200};
         int[] answer = new int[score.length];
 
-        Integer[] winner = new Integer[k];
+        int[] winner = new int[k];
 
-        for(int i = 0; i < k; i++) {
-            winner[i] = score[i];
-
-            if(i == 0) {
-                answer[i] = winner[i];
-            } else {
+        for(int i = 0; i < score.length; i++) {
+            if(i < k) {
+                winner[i] = score[i];
                 Arrays.sort(winner);
+                
+            } else {
 
             }
         }
 
-        Arrays.sort(winner, Comparator.reverseOrder());
-
+        int[] test = new int[3];
+        test[1] = 10;
+        test[0] = 100;
+        Arrays.sort(test);
+        Arrays.stream(test).forEach(e -> System.out.println(e));
 
 
 

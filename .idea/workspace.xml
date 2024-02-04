@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3f8d341e-8cdf-41fd-b78c-d45c78fa022f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/test138477.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/test138477.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +69,10 @@
       <workItem from="1704275125332" duration="1530000" />
       <workItem from="1704370641882" duration="174000" />
       <workItem from="1704606023074" duration="7977000" />
-      <workItem from="1704621805508" duration="10334000" />
+      <workItem from="1704621805508" duration="11203000" />
+      <workItem from="1704718853117" duration="2197000" />
+      <workItem from="1705925361734" duration="6669000" />
+      <workItem from="1706448787419" duration="9325000" />
     </task>
     <servers />
   </component>
@@ -85,6 +89,17 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/test42748.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
