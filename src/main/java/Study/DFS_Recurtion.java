@@ -14,12 +14,11 @@ public class DFS_Recurtion {
         // 깊이 탐색
         visited[nodeIndex] = true;
 
-        System.out.println("방문 : " + nodeIndex );
+        System.out.print( nodeIndex + " -> " );
 
 
         for(int node : graph[nodeIndex]) {
             if(!visited[node]) {
-                System.out.println(node);
                 dfs(node);
             }
         }
